@@ -5,5 +5,6 @@ public class HomeClass{
 		System.out.println("Init Home!");
 		System.out.println("Заложен фундамент!");
 		System.out.println("Построили стены!");
+		System.out.println("Построили крышу!");
 	}
 }
